@@ -5,6 +5,9 @@
 [submodule "econid"]
 	path = econid
 	url = https://github.com/teal-insights/r-econid
+[submodule "imfapi"]
+	path = imfapi
+	url = https://github.com/teal-insights/r-imfapi
 [submodule "imfweo"]
 	path = imfweo
 	url = https://github.com/teal-insights/r-imfweo
