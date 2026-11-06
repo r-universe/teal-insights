@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/teal-insights/teal-insights.r-universe.dev
 	branch = HEAD
 [submodule "econid"]
 	path = econid
@@ -11,6 +11,10 @@
 [submodule "imfweo"]
 	path = imfweo
 	url = https://github.com/teal-insights/r-imfweo
+[submodule "saisdata"]
+	path = saisdata
+	url = https://github.com/Teal-Insights/saisdata
+	branch = v0.1.0
 [submodule "wbids"]
 	path = wbids
 	url = https://github.com/teal-insights/r-wbids
