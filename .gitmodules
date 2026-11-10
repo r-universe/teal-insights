@@ -14,7 +14,7 @@
 [submodule "saisdata"]
 	path = saisdata
 	url = https://github.com/Teal-Insights/saisdata
-	branch = v0.1.0
+	branch = v0.3.0
 [submodule "wbids"]
 	path = wbids
 	url = https://github.com/teal-insights/r-wbids
